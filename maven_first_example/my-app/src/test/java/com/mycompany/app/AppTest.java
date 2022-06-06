@@ -41,9 +41,9 @@ public class AppTest
     }
     public void testApp3()
     {
-        assertTrue( false );
+        assertTrue( true );
     }
-    public void testApp4()
+    public void testApp4();
     {
         assertTrue( true )
     }
